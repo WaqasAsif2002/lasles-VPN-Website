@@ -1,0 +1,173 @@
+.hero{
+    .content{
+    //  width: 35%;
+        padding-left: 50px;
+        padding-top: 90px;
+        padding-left: 100px;
+
+        ul{
+            
+            li{
+                list-style-type: none;
+                img{
+                    width: 25px;
+                    // padding-bottom: 15px;
+                    height: 25px;
+                    margin-right: 10px;
+                }
+            }
+        }
+    }.btnred{
+        width: 200px;
+        border-radius: 15px;
+        height: 40px;
+        font-weight: 500;
+        margin-top: 50px;
+       
+    }
+
+}
+body{
+    overflow-x: none;
+    width: 100%;
+}
+
+
+.plan{
+   
+    
+
+}
+
+.head{
+
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 80px;
+
+    
+}
+.pack{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+    width: 100% ;
+    .card{
+        position: relative;
+        height: fit-content;
+        border: 1px solid rgb(235, 232, 232);
+        box-shadow: 2px 2px 1px 0px rgb(245, 245, 245);
+        margin-bottom: 40px ;
+        
+       
+        ul{
+            
+            li{
+                font-size: large;
+                font-weight: 400;
+               
+            }
+        }
+        button{
+            margin-bottom: 40px;
+            width: 180px;
+            border-radius: 30px;
+            font-weight: 700;
+        }
+    }
+   .card-img-top{
+    width: 90px;
+    // height: 50px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    // font-size: large ;
+   }
+  
+    
+   }
+//    .card>.list-group{
+//     border-top: none;
+//     border-bottom: none;
+//     .list{
+//         border-bottom: none;
+//         border-top: none;
+//     }
+//    }
+.container{
+    .map{
+        padding-top: 40px;
+    }
+}
+.global{
+    .head{
+        h1{
+            font-size:xx-large;
+        }
+       
+
+    }
+}
+
+    .imgsec{
+        align-items: center;
+            display: flex;
+            
+            
+            justify-content: space-around;
+            padding-top: 20px;
+ 
+            img{
+                // display: flex;
+                width: 50px;
+            left: 0px;
+            }
+            h5{
+                margin-top: 20px;
+                font-size: 15px;
+                padding-bottom: 0%;
+            }
+           p{
+            font-weight: 300;
+
+            }
+            .star{
+               width: 35px;
+            }
+        }
+    
+        .subbtn{
+            .btn{
+              width: 190px;
+              align-items: center;
+              
+              display: flex;
+              justify-content: center;
+            }
+          }
+
+
+
+
+
+
+          .gray{
+            .footerlogo{
+                padding-top: 20px;
+                
+            }
+            h2{
+                font-size: medium;
+                
+            }
+            ul{padding-top: 20px;
+                padding-bottom: 80px;
+              li{
+                list-style-type: none;
+
+              }
+            }
+              
+            }
+            

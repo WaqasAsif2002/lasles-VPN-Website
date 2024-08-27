@@ -1,0 +1,114 @@
+.hero .content {
+  padding-left: 50px;
+  padding-top: 90px;
+  padding-left: 100px;
+}
+.hero .content ul li {
+  list-style-type: none;
+}
+.hero .content ul li img {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+.hero .btnred {
+  width: 200px;
+  border-radius: 15px;
+  height: 40px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+
+body {
+  overflow-x: none;
+  width: 100%;
+}
+
+.head {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+
+.pack {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0%;
+  margin: 0%;
+  width: 100%;
+}
+.pack .card {
+  position: relative;
+  height: -moz-fit-content;
+  height: fit-content;
+  border: 1px solid rgb(235, 232, 232);
+  box-shadow: 2px 2px 1px 0px rgb(245, 245, 245);
+  margin-bottom: 40px;
+}
+.pack .card ul li {
+  font-size: large;
+  font-weight: 400;
+}
+.pack .card button {
+  margin-bottom: 40px;
+  width: 180px;
+  border-radius: 30px;
+  font-weight: 700;
+}
+.pack .card-img-top {
+  width: 90px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+}
+
+.container .map {
+  padding-top: 40px;
+}
+
+.global .head h1 {
+  font-size: xx-large;
+}
+
+.imgsec {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.imgsec img {
+  width: 50px;
+  left: 0px;
+}
+.imgsec h5 {
+  margin-top: 20px;
+  font-size: 15px;
+  padding-bottom: 0%;
+}
+.imgsec p {
+  font-weight: 300;
+}
+.imgsec .star {
+  width: 35px;
+}
+
+.subbtn .btn {
+  width: 190px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.gray .footerlogo {
+  padding-top: 20px;
+}
+.gray h2 {
+  font-size: medium;
+}
+.gray ul {
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+.gray ul li {
+  list-style-type: none;
+}/*# sourceMappingURL=style1.css.map */
